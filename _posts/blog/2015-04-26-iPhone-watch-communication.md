@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apple Watch 和 iPhone通信实践
+title: Apple Watch 和 iPhone 通信实践
 description: 本文主要从实践的角度分析 iPhone 和 Watch 的通信框架， 关于 Watch 开发的基本概念可以参考之前写的一篇文章《Apple Watch开发初探》。
 category: blog
 published: ture
