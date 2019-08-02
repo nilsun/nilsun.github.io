@@ -82,11 +82,11 @@ RN 代码覆盖率报告生成，主体流程是类似的：首先对 js 代码�
 
 通过上述的工具，我们可以开始 RN 中的 js 代码覆盖率统计：
 
-#### 1、js 代码手动插桩
+### 1、js 代码手动插桩
 
 使用 istanbul 中 nyc instrument 命令，可以对 js 文件进行批量处理，生成插桩后的代码，然后对源文件进行覆盖。这里我们对比可以看到和 iOS 插桩过程的细微差别：iOS 插桩方式是使用方无感，js 需要我们编写脚本进行批量处理，覆盖源文件。
 
-#### 2、启动 istanbul-middleware 的 web server
+### 2、启动 istanbul-middleware 的 web server
 
 在 istanbul-middleware 目录中启动服务：
 
@@ -94,7 +94,7 @@ RN 代码覆盖率报告生成，主体流程是类似的：首先对 js 代码�
 
 现在我们可以通过访问  **http://localhost:8889/coverage**  获取代码覆盖率的报告，但 RN 代码并没有加载，现在我们只能看到一个空页面。
 
-#### 3、代码执行文件定时回传 server
+### 3、代码执行文件定时回传 server
 
 修改 App.js 文件，添加 “将代码覆盖率执行文件” 回传 Server 端：
 
@@ -116,11 +116,11 @@ setInterval(function() {
 
 注意需要替换上传文件的地址为 web server 的 ip 地址
 
-#### 4、启动应用，加载本机 RN 代码
+### 4、启动应用，加载本机 RN 代码
 
 运行 react-native ios-run，启动 RN 服务，然后启动 iOS App，从本地加载 RN js bundle，测试 1 中插桩模块的 js 代码
 
-#### 5、查看覆盖率报告生成
+### 5、查看覆盖率报告生成
 
 打开浏览器，访问 http://localhost:8889/coverage 页面，我们可以看到 4 中的执行结果了：
 
