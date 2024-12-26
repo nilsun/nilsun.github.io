@@ -7,7 +7,7 @@ layout: home
         <ul class="artical-cate">
             <li class="on"><a href="/"><span>技术</span></a></li>
             <li style="text-align:center"><a href="/opinion"><span>算法</span></a></li>
-            <li style="text-align:right"><a href="/project"><span>项目</span></a></li>
+            <li style="text-align:right"><a href="/project"><span>随笔</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
