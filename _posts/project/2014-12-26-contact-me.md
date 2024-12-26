@@ -6,10 +6,10 @@ description: Contact me
 published: true
 ---
 
-你可以通过以下联系方式找到我：
+你可以通过以下联系方式找到我
 
 You can contact me through the following methods:
 
 Email：jack.2024@foxmail.com
 
-[LinkedIn](www.linkedin.com/in/jack-wang-803204342)
+[LinkedIn](https://www.linkedin.com/in/jack-wang-803204342)
