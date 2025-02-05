@@ -68,6 +68,7 @@ ANI（Narrow AI，狭义人工智能）
 | NLP 领域 AGI 应用| 3-5年 | 生活助理 |
 | 特定领域机器人 | 3-5年 | 送快递、无人驾驶、仓库搬运 |
 |  AGI 机器人 | 5年、10年 or 20年 | |
+
 <div style="margin-bottom:20px;"></div>
 
 ## English Version
@@ -133,6 +134,7 @@ As we enter early 2025, we can predict the trajectory of AI’s applications. Th
 | AGI applications in NLP	| 3–5 years | Personal AI assistants |
 | Specialized AI-driven robotics	 | 3–5 years | Autonomous delivery, self-driving cars, warehouse automation |
 |  AGI robots	 | 5, 10, or even 20 years	 | |
+
 <div style="margin-bottom:20px;"></div>
 
 While we are still years (or decades) away from true AGI, the rapid evolution of AI applications is already reshaping industries. The question is not if AI will transform our lives but rather how soon and to what extent.
