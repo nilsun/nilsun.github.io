@@ -11,19 +11,25 @@ layout: default
     @media screen and (max-width: 1020px){
         body { background:#fff; }
     }
-    table{
-        border-left:1px solid #000000;
-        border-top:1px solid #000000;
+   table {
         width: 100%;
-        word-wrap:break-word; 
-        word-break:break-all;
+        border-collapse: collapse;
+        border: 1px solid #ddd;
+        font-family: Arial, sans-serif;
+        font-size: 14px;
     }
-    table th{
-        text-align:center;
+    table th, table td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: center;
     }
-    table th,td{
-        border-right:1px solid #000000;
-        border-bottom:1px solid #000000;
+    table th {
+        background-color: #f4f4f4;
+        font-weight: bold;
+        color: #333;
+    }
+    table tr:nth-child(even) {
+        background-color: #f9f9f9;
     }
 </style>
 
