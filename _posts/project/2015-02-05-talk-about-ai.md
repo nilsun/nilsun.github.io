@@ -12,7 +12,7 @@ published: true
 
 ## 什么是人工智能？
 
-ChatGPT 或 DeepSeek 并不等同于人工智能，`人工智能（AI，Artificial Intelligence）` 实际上是一个比较泛化的概念：
+ChatGPT 或 DeepSeek 并不等同于人工智能，人工智能（AI，Artificial Intelligence）实际上是一个比较泛化的概念：
 
 > 人工智能（AI） 是指让机器具备类似人类的智能，能够执行感知、理解、决策、学习等任务的技术。
 > 
@@ -38,7 +38,7 @@ ChatGPT 或 DeepSeek 并不等同于人工智能，`人工智能（AI，Artifici
 
 ## 目前发展到哪儿？
 
-在聊目前 AI 发展到哪儿之前，我们先了解下`AGI`和`ANI`的概念：
+在聊目前 AI 发展到哪儿之前，我们先了解下 AGI 和 ANI 的概念：
 
 ### AGI 和 ANI
 
