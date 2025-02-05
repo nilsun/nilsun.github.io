@@ -15,6 +15,7 @@ published: true
 ChatGPT 或 DeepSeek 并不等同于人工智能，`人工智能（AI，Artificial Intelligence）` 实际上是一个比较泛化的概念：
 
 > 人工智能（AI） 是指让机器具备类似人类的智能，能够执行感知、理解、决策、学习等任务的技术。
+> 
 > AI 主要通过 算法 + 数据 + 计算能力 来模拟人类思维，让机器能自动完成识别、分析、预测、创造等任务，而不依赖人工干预。
 
 我在网上找了一张图方便大家一览全貌：
@@ -44,11 +45,13 @@ ChatGPT 或 DeepSeek 并不等同于人工智能，`人工智能（AI，Artifici
 AGI（Artificial General Intelligence，通用人工智能）
 
 >像人类一样拥有通用认知能力，可以跨领域学习、推理、创造新知识。
+>
 >可以自由适应新任务，而不需要专门训练。
 
 ANI（Narrow AI，狭义人工智能）
 
 >只能完成特定任务的 AI，比如语音识别、图像识别、自动驾驶等。
+>
 >不能通用推理，也不能跨领域思考
 
 虽然目前 ChatGPT、DeepSeek 等一些 AI 应用开始不断给大众带来惊喜，给行业带来变革。但事实上它们仍旧属于 ANI，它擅长于文本的理解和生成，而这些能力仍然基于数据预训练，而非完全自主思考。
@@ -78,6 +81,7 @@ It wasn’t until the Spring Festival that I truly realized the AI era was upon 
 ChatGPT or DeepSeek is not synonymous with Artificial Intelligence (AI). In fact, AI is a broad and generalized concept:
 
 >Artificial Intelligence (AI) refers to the technology that enables machines to exhibit human-like intelligence, allowing them to perform tasks such as perception, comprehension, decision-making, and learning.
+>
 >AI primarily relies on algorithms, data, and computing power to simulate human thought processes, enabling machines to autonomously complete tasks such as recognition, analysis, prediction, and creation—without human intervention.
 
 I found a diagram online that provides an overview:
@@ -106,11 +110,13 @@ Before discussing the current state of AI, let's first define two key concepts: 
 AGI (Artificial General Intelligence)
 
 >AI with human-like cognitive abilities that can learn, reason, and create new knowledge across various domains.
+>
 >It can adapt to new tasks without specialized training.
 
 ANI (Artificial Narrow Intelligence)
 
 >AI that can only perform specific tasks, such as speech recognition, image recognition, and autonomous driving.
+>
 >It lacks general reasoning and cross-domain thinking capabilities.
 
 Although applications like ChatGPT and DeepSeek continue to surprise the public and revolutionize industries, they still fall under ANI. These systems excel at text understanding and generation, but their capabilities are fundamentally based on pre-trained data rather than true autonomous reasoning.
