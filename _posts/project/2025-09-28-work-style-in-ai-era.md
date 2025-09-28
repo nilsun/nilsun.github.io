@@ -26,8 +26,6 @@ published: true
 
 这是一个挺好的时代，你说呢？
 
-# English Version
-
 ### Building with AI: My Experiment in the Age of One-Person Companies
 
 Recently, with a bit of spare time on my hands, I decided to take on a small side project. As soon as I started mapping out how to deliver an MVP prototype, I was quickly reminded of how many moving parts go into building even the simplest product—business positioning, product design, technical implementation, and eventually, marketing and growth.
