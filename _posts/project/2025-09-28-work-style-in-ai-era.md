@@ -2,8 +2,9 @@
 layout: post
 title: AI 时代的工作方式
 category: project
-description: Talk about the work style in the AI era
+description: The AI era‘s work style	
 published: true
+
 ---
 
 最近有空的的时候，想做一个小项目，初步想好 MVP 原型具体落地去做的时候，自然少不了 业务方向定位、产品交互设计、技术实现，以及后面的营销推广等环节。
